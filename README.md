@@ -2,5 +2,5 @@
 
 
 ```
-apt remove --purge nano
+apt remove --purge nandfsbvjkqdvb qdsjjo
 ```
